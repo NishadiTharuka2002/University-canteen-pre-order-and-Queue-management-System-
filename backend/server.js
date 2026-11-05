@@ -1,3 +1,3 @@
-import menuRoutes from "./src/routes/menuRoutes.js";
+import walletRoutes from "./src/routes/walletRoutes.js";
 
-app.use("/api/menu", menuRoutes);
+app.use("/api/wallet", walletRoutes);
